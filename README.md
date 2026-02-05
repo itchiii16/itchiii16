@@ -1,6 +1,6 @@
 # Hi 👋, I'm itchiii 
 
-### **Computer Science Junior | President of 4-H Club USTP-CDO | Agri-Tech Advocate**
+### **Computer Science Junior | Trailblazer | Student Leader | Agri-Tech Advocate**
 
 ```cpp
 // My guiding principle
