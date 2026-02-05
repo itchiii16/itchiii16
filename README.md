@@ -1,3 +1,13 @@
-## hi, i'm itchiii👋  
+# Hi 👋, I'm itchiii 
 
-a stressed out junior computer science student surviving on deadlines, bugs, and vibe coding
+### **Computer Science Junior | President of 4-H Club USTP-CDO | Agri-Tech Advocate**
+
+```cpp
+// My guiding principle
+const string MANTRA = "Growth and comfort do not coexist.";
+bool is_determined = true;
+
+while(is_determined) {
+    build_the_future();
+    break_the_bias();
+}
