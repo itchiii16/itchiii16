@@ -66,13 +66,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itchiii16&show_icons=true&theme=dark&bg_color=0d1117&title_color=4CAF50&icon_color=4CAF50&hide_border=true" alt="Kathy's GitHub Stats" />
-</p>
-
----
-
 ```cpp
 // My guiding principle
 const string MANTRA = "Growth and comfort do not coexist.";
