@@ -66,17 +66,21 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-dusky-zeta-82.vercel.app/api?username=itchiii16&show_icons=true&theme=dark&bg_color=0d1117&title_color=4CAF50&icon_color=4CAF50&hide_border=true)
+<div align="center">
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-dusky-zeta-82.vercel.app/api?username=itchiii16&show_icons=true&theme=dark&bg_color=0d1117&title_color=4CAF50&icon_color=4CAF50&hide_border=true)
 ---
 ### 🔥 GitHub Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itchiii16&theme=dark&hide_border=true&background=0d1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50)
-
 ---
-
 ### 📈 Top Languages
+
 ![Top Languages](https://github-readme-stats-dusky-zeta-82.vercel.app/api/top-langs/?username=itchiii16&theme=dark&bg_color=0d1117&title_color=4CAF50&hide_border=true&layout=compact)
+
+</div>
 
 ---
 ```cpp
