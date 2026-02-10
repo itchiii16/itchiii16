@@ -61,6 +61,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />  
   <img src="https://img.shields.io/badge/ASUS%20TUF%20A15-2D2D2D?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS TUF" />
 </p>
 
