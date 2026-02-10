@@ -19,7 +19,7 @@
     <td align="center" valign="top" width="40%">
       <img src="https://github.com/user-attachments/assets/171dc2c1-f6fe-4634-9f4e-1b6fb619fda8" width="300" />
       <br>
-      <p align="center"><i>A stressed-out junior komsay surviving on deadlines, bugs, research, designing and vibe coding.</i></p>
+      <p align="center"><i>A stressed-out junior komsay surviving on deadlines, bugs, research, and designing.</i></p>
     </td>
   </tr>
 </table>
