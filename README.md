@@ -10,10 +10,10 @@
     <td valign="top">
 
 ### 👩‍💻 Get to Know Me!
-* 🔭 Currently working on **agritech innovations**, my portfolio, and driving **tech-enabled rural and youth development**.
-* 🎓 Third-year **Computer Science major** at the University of Science and Technology of Southern Philippines (**USTP-CDO**).
-* 🚜 Researcher, student leader, advocate, **founder of agri initiatives**, and **businesswoman** driving projects in urban gardening and youth agricultural development.
-* ⚡ **Multidisciplinary creative** specializing in **UI/UX, graphic design, and photography**, while exploring **video editing** and **poetry**.
+* Currently working on **agritech innovations**, my portfolio, and driving **tech-enabled rural and youth development**.
+* Third-year **Computer Science major** at the University of Science and Technology of Southern Philippines (**USTP-CDO**).
+* Researcher, student leader, advocate, **founder of agri initiatives**, and **businesswoman** driving projects in urban gardening and youth agricultural development.
+* **Multidisciplinary creative** specializing in **UI/UX, graphic design, and photography**, while exploring **video editing** and **poetry**.
 
     </td>
     <td align="center" valign="top" width="40%">
