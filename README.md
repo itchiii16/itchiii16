@@ -28,7 +28,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="www.linkedin.com/in/kathleen-grace-gultiano-733b98382" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/kathleen-grace-gultiano-733b98382/?isSelfProfile=true" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/itchiii16" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:kathleengrace.gultiano@1.ustp.edu.ph"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
