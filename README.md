@@ -1,7 +1,6 @@
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&height=120&lines=Hi,+I'm+Kathy;But+you+can+call+me+itchiii;Youth+Agvocate+%26+CS+Student;Researcher+%26+AgriTech+Innovator;Founder,Student+Leader,+%26+Businesswoman;Stay+tuned+for+more+updates!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&height=120&lines=Hi%2C+I%27m+Kathleen%21;But+you+can+call+me+Kathy;Youth+Agvocate%2C+CS+Student;Researcher%2C+AgriTech+Innovator;Founder+%26+Student+Leader;Stay+tuned+for+more+updates%21" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -10,10 +9,10 @@
     <td valign="top">
 
 ### 👩‍💻 Get to Know Me!
-* Currently working on **agritech innovations**, my portfolio, and driving **tech-enabled rural and youth development**.
-* Third-year **Computer Science major** at the University of Science and Technology of Southern Philippines (**USTP-CDO**).
-* Researcher, student leader, advocate, **founder of agri initiatives**, and **businesswoman** driving projects in urban gardening and youth agricultural development.
-* **Multidisciplinary creative** specializing in **UI/UX, graphic design, and photography**, while exploring **video editing** and **poetry**.
+* Currently working on agritech innovations, my portfolio, and tech-enabled community and youth development.
+* Third-year Computer Science student at the University of Science and Technology of Southern Philippines (USTP-CDO).
+* Researcher, student leader, and advocate innovating at the intersection of agriculture, technology, and youth development.
+* Multidisciplinary creative specializing in UI/UX, graphic design, and photography, while exploring the world of video editing.
 
     </td>
     <td align="center" valign="top" width="40%">
@@ -65,17 +64,6 @@
   <img src="https://img.shields.io/badge/ASUS%20TUF%20A15-2D2D2D?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS TUF" />
 </p>
 
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-dusky-zeta-82.vercel.app/api?username=itchiii16&show_icons=true&theme=dark&bg_color=0d1117&title_color=4CAF50&icon_color=4CAF50&hide_border=true)
----
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itchiii16&theme=dark&hide_border=true&background=0d1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50)
 ---
 ### 📈 Top Languages
 
